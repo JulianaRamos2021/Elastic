@@ -19,13 +19,13 @@ Já com o cadastro pronto acessei Home > Machine Learning.
 Em seguida File.
 ![image](https://user-images.githubusercontent.com/78691172/179358145-5ba0eecf-9779-4106-92c6-0771f5a2def2.png)
 
-
+     
 Aqui estou baixando dois arquivos: cars.bulk e populacao.LA (arquivo disponibilizado no bootcamp data engineer Semantix)
 ![image](https://user-images.githubusercontent.com/78691172/179357106-e60e036a-e82a-4ab3-a5c7-7f6ac12cf7b5.png)
-
+      
 Ao baixar o arquivo a ferramenta apresenta um resumo geral dos dados apresentados.
 ![image](https://user-images.githubusercontent.com/78691172/179357139-c960ea33-69cd-4714-915c-ddc59dc6c23d.png)
-
+   
 
 Em seguida é necessário definir o nome do indeex (seu arquivo).
 ![image](https://user-images.githubusercontent.com/78691172/179357158-7fef612a-d86b-4bc9-8aa5-ac6509d41454.png)
@@ -39,16 +39,17 @@ Em seguida é necessário definir o nome do indeex (seu arquivo).
 Após baixar vamos acessar os dados através de Management> Dev tools.
 ![image](https://user-images.githubusercontent.com/78691172/179357303-b058a91c-9cf0-4717-b7cf-6817fb8c1c0a.png)
 
+   
 Verificando o número de documentos no index concessionária.
 ![image](https://user-images.githubusercontent.com/78691172/179357385-b6e808f1-f43a-4692-adad-5588e349abc9.png)
-
+   
 
 Verificando o número de documentos no index população.
 ![image](https://user-images.githubusercontent.com/78691172/179357457-960169cb-165a-4477-8cc1-8c2abc53a8a9.png)
 
-
+Visualizando os documentos no index concessionária.    
 ![image](https://user-images.githubusercontent.com/78691172/179357571-8f0e123f-a22d-47f3-9a99-9066c35c138c.png)
-
-
+   
+Visualizando os documentos no index população. 
 ![image](https://user-images.githubusercontent.com/78691172/179357648-65ad6239-402b-45ea-bddf-d4b1df87abc6.png)
 
