@@ -1,4 +1,4 @@
-# ElasticSearch
+# Elastic
 Elasticsearch é um mecanismo de busca e análise de dados distribuído, gratuito e aberto para todos os tipos de dados, incluindo textuais, numéricos, geoespaciais, estruturados e não estruturados. 
 
 
@@ -39,10 +39,11 @@ Em seguida é necessário definir o nome do indeex (seu arquivo).
 Após baixar vamos acessar os dados através de Management> Dev tools.
 ![image](https://user-images.githubusercontent.com/78691172/179357303-b058a91c-9cf0-4717-b7cf-6817fb8c1c0a.png)
 
-
+Verificando o número de documentos no index concessionária.
 ![image](https://user-images.githubusercontent.com/78691172/179357385-b6e808f1-f43a-4692-adad-5588e349abc9.png)
 
 
+Verificando o número de documentos no index população.
 ![image](https://user-images.githubusercontent.com/78691172/179357457-960169cb-165a-4477-8cc1-8c2abc53a8a9.png)
 
 
