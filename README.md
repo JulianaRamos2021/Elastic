@@ -9,10 +9,16 @@ Os dados brutos fluem para o Elasticsearch de uma variedade de fontes, incluindo
 
 ### Carregando dados
 
-Acesse HOME, Machine Learning.
+Acesse Home, Machine Learning.
+
 ![image](https://user-images.githubusercontent.com/78691172/179357928-230b3866-5608-4b5b-87a7-cadaafd02bfa.png)
 
 
+Em seguida File.
+![image](https://user-images.githubusercontent.com/78691172/179358145-5ba0eecf-9779-4106-92c6-0771f5a2def2.png)
+
+
+Aqui estou baixando dois arquivos, o primeiro é cars.bulk (arquivo disponibilizado no bootcamp data engenier Semantix)
 ![image](https://user-images.githubusercontent.com/78691172/179357106-e60e036a-e82a-4ab3-a5c7-7f6ac12cf7b5.png)
 
 
