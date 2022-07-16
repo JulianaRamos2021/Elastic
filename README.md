@@ -80,3 +80,5 @@ c) Nome = hd e descrição = windows
 
 2. Pesquisar todos os índices, limitando a pesquisa em 5 documentos em cada página e visualizar a 4 página (Documentos entre 16 á 20 )
 
+![image](https://user-images.githubusercontent.com/78691172/179369519-a1b66bbc-805b-423b-be9e-28693ad8cba4.png)
+
