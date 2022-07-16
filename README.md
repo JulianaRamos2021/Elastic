@@ -23,4 +23,7 @@ Os dados brutos fluem para o Elasticsearch de uma variedade de fontes, incluindo
 ![image](https://user-images.githubusercontent.com/78691172/179357385-b6e808f1-f43a-4692-adad-5588e349abc9.png)
 
 
+![image](https://user-images.githubusercontent.com/78691172/179357457-960169cb-165a-4477-8cc1-8c2abc53a8a9.png)
+
+
 
