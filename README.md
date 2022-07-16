@@ -92,7 +92,11 @@ c) Nome = hd e descrição = windows
 
 
 
-2. Visualizar o mapeamento do índice produto
+2. Visualizar o mapeamento do índice população
+
+![image](https://user-images.githubusercontent.com/78691172/179370466-035039d8-6de3-4421-bd42-d267eed8d53e.png)
+
+
 
 3. Visualizar o mapeamento do atributo nome do índice produto
 
