@@ -67,7 +67,10 @@ a) Make = Honda
 
 
 
-b) Quantidade = 30
+b) Cor = vermelho
+
+![image](https://user-images.githubusercontent.com/78691172/179368889-01455f7f-27ac-4f39-bb67-77def60326c9.png)
+
 
 c) Descrição = USB
 
