@@ -53,3 +53,27 @@ Visualizando os documentos no index concessionária.
 Visualizando os documentos no index população. 
 ![image](https://user-images.githubusercontent.com/78691172/179357648-65ad6239-402b-45ea-bddf-d4b1df87abc6.png)   
 
+
+
+### Pesquisa e Paginação
+
+1. Pesquisar no índice produto os documentos com os seguintes atributos:
+
+a) Make = Honda   
+  
+![image](https://user-images.githubusercontent.com/78691172/179367045-80c95aed-40e9-4154-8eb9-a4d0f3dbac5f.png)
+
+
+
+
+
+b) Quantidade = 30
+
+c) Descrição = USB
+
+d) Nome = hd e descrição = windows
+
+e) Nome = memória e descrição = GB
+
+2. Pesquisar todos os índices, limitando a pesquisa em 5 documentos em cada página e visualizar a 4 página (Documentos entre 16 á 20 )
+
