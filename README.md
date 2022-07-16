@@ -98,7 +98,11 @@ c) Nome = hd e descrição = windows
 
 
 
-3. Visualizar o mapeamento do atributo nome do índice produto
+3. Visualizar o mapeamento do atributo color do índice concessionária
+
+![image](https://user-images.githubusercontent.com/78691172/179370554-51a85264-9a4d-4eac-ab37-886bfd215f80.png)
+
+
 
 4. Inserir o campo data do tipo date no índice produto
 
