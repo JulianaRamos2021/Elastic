@@ -104,11 +104,18 @@ c) Nome = hd e descrição = windows
 
 
 
-4. Inserir o campo data do tipo date no índice produto
+4. Inserir o campo data do tipo date no índice concessionária
+
+![image](https://user-images.githubusercontent.com/78691172/179370684-f3729839-b695-48c4-8d3a-55985da2fc3a.png)
+
 
 5. Adicionar o documento:
 
-_id: 6, "nome": "teclado", "qtd": 100, "descricao": "USB", "data":"2020-09-18"
+_id: 6,  "make": "Lego",  "price": 10000,  "color": "orange",  "sold":"2020-09-18"
+
+![image](https://user-images.githubusercontent.com/78691172/179370916-e5b71eea-98a9-427a-aedf-6379fe0ef4fb.png)
+
+
 6. Reindexar o índice produto para produto2, com o campo quantidade para o tipo short
 
 7. Visualizar o mapeamento do índice produto2
