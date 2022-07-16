@@ -21,7 +21,7 @@ Em seguida File.
 Aqui estou baixando dois arquivos, o primeiro é cars.bulk (arquivo disponibilizado no bootcamp data engenier Semantix)
 ![image](https://user-images.githubusercontent.com/78691172/179357106-e60e036a-e82a-4ab3-a5c7-7f6ac12cf7b5.png)
 
-
+Ao baixar o arquivo a ferramenta apresenta um resumo geral dos dados apresentados.
 ![image](https://user-images.githubusercontent.com/78691172/179357139-c960ea33-69cd-4714-915c-ddc59dc6c23d.png)
 
 ![image](https://user-images.githubusercontent.com/78691172/179357158-7fef612a-d86b-4bc9-8aa5-ac6509d41454.png)
