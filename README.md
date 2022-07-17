@@ -179,7 +179,8 @@ Primeiro vamos confirmar se temos o índice
 ![image](https://user-images.githubusercontent.com/78691172/179403339-de9f5971-97d8-46a7-acb8-dece158d5ea3.png)
 
 
-4. Buscar os documentos que contenham a palavra “USB” no atributo descrição
+4. Buscar os documentos que contenham a palavra “ford” no atributo fabricante
+![image](https://user-images.githubusercontent.com/78691172/179403507-e74aaffb-0369-4515-bda8-93d82256afd8.png)
 
 5. Buscar os documentos que contenham a palavra “USB” e não contenham a palavra “Linux” no atributo descrição
 
