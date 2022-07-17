@@ -220,9 +220,14 @@ c) Mostrar os documentos 50 (Zip Code: 90056) à 60 (Zip Code: 90067) do índice
 
 
 3. Importar através do Kibana o arquivo weekly_MSFT.csvPré-visualizar o documento (Guia Arquivos/dataset/weekly_MSFT.csv) com o índice bolsa
+![image](https://user-images.githubusercontent.com/78691172/179405586-a80b7f4f-5fd6-4282-b71e-e7dcc3511629.png)
+
 
 4. Executar as consultas no índice bolsa
 
 a) Visualizar os documentos do dia 2019-01-01 à 2019-03-01. (hits = 9)
+![image](https://user-images.githubusercontent.com/78691172/179405502-279cba82-2520-4238-9b3c-dc1f27c1a948.png)
 
 b) Visualizar os documentos do dia 2019-04-01 até agora. (hits = 3)
+
+![image](https://user-images.githubusercontent.com/78691172/179405665-f67235dc-e448-4986-b7ff-d6372700ce30.png)
