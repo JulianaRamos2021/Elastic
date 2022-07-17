@@ -72,7 +72,7 @@ b) Cor = vermelho
 ![image](https://user-images.githubusercontent.com/78691172/179368889-01455f7f-27ac-4f39-bb67-77def60326c9.png)
 
 
-c) cor = azul e marca = Toyota
+c) cor = azul e fabricante = Toyota
 
 
 ![image](https://user-images.githubusercontent.com/78691172/179369047-8e7d8799-be91-49bd-bf65-23a9a4f2108b.png)
@@ -135,7 +135,6 @@ Reindexando...
 ![image](https://user-images.githubusercontent.com/78691172/179399927-ad3ebeca-16ba-4cbf-a16c-c17e15945434.png)
 
 
-
 8. Fechar o índice concessionaria
 
 ![image](https://user-images.githubusercontent.com/78691172/179400112-d4e3c676-66ff-42e7-a175-9091aa80ad4b.png)
@@ -145,7 +144,6 @@ Reindexando...
 
 Visto que o índice foi fechado não é possível acessar, por isso retornou mensagem de erro.
 ![image](https://user-images.githubusercontent.com/78691172/179400223-13e5762f-bb6e-408e-b787-5b462377bf5a.png)
-
 
 
 10. Abrir o índice produto
