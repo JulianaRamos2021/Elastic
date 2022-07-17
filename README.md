@@ -187,4 +187,7 @@ Primeiro vamos confirmar se temos o índice
 ![image](https://user-images.githubusercontent.com/78691172/179403776-515b09e5-4704-4947-8baf-2ecc263588a5.png)
 
 
-6. Buscar os documentos que podem ter a palavra “memória” no atributo nome ou contenham a palavra “USB” e não contenham a palavra “Linux” no atributo descrição
+6. Buscar os documentos que podem ter a palavra “toyota” no atributo make ou contenham a palavra “ford” e não contenham a palavra “bmw” no atributo make
+
+
+![image](https://user-images.githubusercontent.com/78691172/179404348-aa633d34-4864-483a-8bcf-656c00a07de0.png)
