@@ -279,6 +279,9 @@ Realizar os exercícios no índice bolsa
 
 5. Calcular a mediana do campo open
 
+![image](https://user-images.githubusercontent.com/78691172/179417011-0baff088-6457-45f1-b74e-840bbc49062f.png)
+
+
 6. Contar a quantidade de documentos agrupados por ano
 
 7. Contar a quantidade de documentos de 2 anos atrás até hoje
