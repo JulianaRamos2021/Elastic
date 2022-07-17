@@ -247,7 +247,12 @@ O elasticsearch surgiu em 2010
 ![image](https://user-images.githubusercontent.com/78691172/179410449-47805a3c-e2b4-4a5c-a2cd-b130cbced865.png)
 
 
+![image](https://user-images.githubusercontent.com/78691172/179410735-4ebf8db0-1e37-4a43-9e9b-c54d324a9fd3.png)
+
+
 2. Realizar os passos no índice produto
+
+
 
 a) Criar um analyzer brazilian para o atributo descricao
 
