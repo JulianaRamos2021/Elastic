@@ -195,16 +195,23 @@ Primeiro vamos confirmar se temos o índice
 
 ### Consultas por Intervalo
 
-1. Verificar se existe o índice concessionaria
+1. Verificar se existe o índice população
 O retorno como 200 significa que deu certo e 404 que houve erro na consulta.
-![image](https://user-images.githubusercontent.com/78691172/179404544-ae29a945-1e7c-4189-9ca6-6de3038fcfda.png)
+![image](https://user-images.githubusercontent.com/78691172/179404657-f6141012-d0e6-4b7e-9a89-24bf39f17143.png)
 
 
-2. Executar as consultas no índice concessionaria
+2. Executar as consultas no índice população
+
 
 a) Mostrar os documentos com o atributo "Total Population" menor que 100
 
+![image](https://user-images.githubusercontent.com/78691172/179404767-5c312343-1f9b-4013-9cac-2660ce5ffd55.png)
+
+
 b) Mostrar os documentos com o atributo "Median Age" maior que 70
+
+![image](https://user-images.githubusercontent.com/78691172/179404892-64c66ce3-96ff-47df-8602-9085c6b810ab.png)
+
 
 c) Mostrar os documentos 50 (Zip Code: 90056) à 60 (Zip Code: 90067) do índice de populacao
 
