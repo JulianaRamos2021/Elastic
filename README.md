@@ -153,9 +153,17 @@ Visto que o índice foi fechado não é possível acessar, por isso retornou men
 
 ### Query e Filtros
 
-Realizar todas as buscas a seguir no índice produto
+Realizar todas as buscas a seguir no índice concessionaria
 
-1. Buscar no termo nome o valor mouse
+Primeiro vamos confirmar se temos o índice
+![image](https://user-images.githubusercontent.com/78691172/179401755-7e94d435-936e-4236-8a86-36ab9a3450d3.png)
+
+
+
+1. Buscar no termo cor o valor verde
+
+![image](https://user-images.githubusercontent.com/78691172/179401940-56ca4e9a-f92a-4f73-bf84-ce5aad044385.png)
+
 
 2. Buscar no termo nome os valores mouse e teclado
 
