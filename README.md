@@ -172,6 +172,13 @@ Primeiro vamos confirmar se temos o índice
 
 3. Realizar a mesma busca do item 1 e 2, desconsiderando o score
 
+
+![image](https://user-images.githubusercontent.com/78691172/179403235-e754a118-9b4e-4b34-996c-f371935c640f.png)
+
+
+![image](https://user-images.githubusercontent.com/78691172/179403339-de9f5971-97d8-46a7-acb8-dece158d5ea3.png)
+
+
 4. Buscar os documentos que contenham a palavra “USB” no atributo descrição
 
 5. Buscar os documentos que contenham a palavra “USB” e não contenham a palavra “Linux” no atributo descrição
