@@ -264,6 +264,9 @@ Realizar os exercícios no índice bolsa
 
 2. Calcular a estatística do campo close
 
+![image](https://user-images.githubusercontent.com/78691172/179416712-368f4ed4-0e4d-43f6-8e46-a3e1f3aaacb9.png)
+
+
 3. Visualizar os documentos do dia 2019-04-01 até agora. (hits = 3)
 
 4. Calcular a estatística do campo open do período do dia 2019-04-01 até agora
