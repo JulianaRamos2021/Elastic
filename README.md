@@ -116,12 +116,16 @@ _id: 6,  "make": "Lego",  "price": 10000,  "color": "orange",  "sold":"2020-09-1
 ![image](https://user-images.githubusercontent.com/78691172/179370916-e5b71eea-98a9-427a-aedf-6379fe0ef4fb.png)
 
 
-6. Reindexar o índice produto para concessionaria2, com o campo quantidade para o tipo short
+6. Reindexar o índice concessionaria para concessionaria2.
+
+![image](https://user-images.githubusercontent.com/78691172/179399585-9717633b-7ee5-44fc-a2e2-af8ebdaaf5ac.png)
 
 
 Criando o index concessionaria2
 ![image](https://user-images.githubusercontent.com/78691172/179399310-294e4805-1aae-4f5f-8505-235a1faaf823.png)
 
+Copiando propriedades para o novo index
+![image](https://user-images.githubusercontent.com/78691172/179399459-0a8ec9c8-53da-481b-9c3a-fc4639827c32.png)
 
 
 
