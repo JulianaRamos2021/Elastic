@@ -259,7 +259,7 @@ Realizar os exercícios no índice bolsa
 
 1. Calcular a média do campo volume
 
-![image](https://user-images.githubusercontent.com/78691172/179416551-a02bf33a-267d-40e6-8d49-b958a7ce22f8.png)
+![image](https://user-images.githubusercontent.com/78691172/179416645-201d9d40-db2e-4ea2-8386-83257c6be08a.png)
 
 
 2. Calcular a estatística do campo close
