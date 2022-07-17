@@ -165,7 +165,10 @@ Primeiro vamos confirmar se temos o índice
 ![image](https://user-images.githubusercontent.com/78691172/179401940-56ca4e9a-f92a-4f73-bf84-ce5aad044385.png)
 
 
-2. Buscar no termo nome os valores mouse e teclado
+2. Buscar no termo cor os valores verde e vermelho
+
+![image](https://user-images.githubusercontent.com/78691172/179402354-f38e139e-864f-41a5-833b-b71c6c350778.png)
+
 
 3. Realizar a mesma busca do item 1 e 2, desconsiderando o score
 
