@@ -284,5 +284,8 @@ Realizar os exercícios no índice bolsa
 
 6. Contar a quantidade de documentos agrupados por ano
 
+![image](https://user-images.githubusercontent.com/78691172/179417235-a681ddae-7e76-4867-a823-2bcc53621399.png)
+
+
 7. Contar a quantidade de documentos de 2 anos atrás até hoje
 
