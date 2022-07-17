@@ -127,9 +127,14 @@ Criando o index concessionaria2
 Copiando propriedades para o novo index
 ![image](https://user-images.githubusercontent.com/78691172/179399459-0a8ec9c8-53da-481b-9c3a-fc4639827c32.png)
 
+Reindexando...
+![image](https://user-images.githubusercontent.com/78691172/179399818-0ee24746-303a-49be-8b5f-4ffe2c72970c.png)
 
 
-7. Visualizar o mapeamento do índice produto2
+7. Visualizar o mapeamento do índice concessionaria2
+![image](https://user-images.githubusercontent.com/78691172/179399927-ad3ebeca-16ba-4cbf-a16c-c17e15945434.png)
+
+
 
 8. Fechar o índice produto
 
