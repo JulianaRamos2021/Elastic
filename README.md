@@ -269,7 +269,13 @@ Realizar os exercícios no índice bolsa
 
 3. Visualizar os documentos do dia 2019-04-01 até agora. (hits = 3)
 
+![image](https://user-images.githubusercontent.com/78691172/179416789-80d511fb-2501-443c-8794-863282077d19.png)
+
+
 4. Calcular a estatística do campo open do período do dia 2019-04-01 até agora
+
+![image](https://user-images.githubusercontent.com/78691172/179416856-94dbcd84-61c9-42ad-aac1-eac98fd491b8.png)
+
 
 5. Calcular a mediana do campo open
 
