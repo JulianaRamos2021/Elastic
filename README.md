@@ -72,7 +72,7 @@ b) Cor = vermelho
 ![image](https://user-images.githubusercontent.com/78691172/179368889-01455f7f-27ac-4f39-bb67-77def60326c9.png)
 
 
-c) Nome = hd e descrição = windows
+c) cor = azul e marca = Toyota
 
 
 ![image](https://user-images.githubusercontent.com/78691172/179369047-8e7d8799-be91-49bd-bf65-23a9a4f2108b.png)
