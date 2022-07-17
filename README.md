@@ -289,3 +289,5 @@ Realizar os exercícios no índice bolsa
 
 7. Contar a quantidade de documentos de 2 anos atrás até hoje
 
+![image](https://user-images.githubusercontent.com/78691172/179417448-9cbe2db0-1405-4531-858b-01e3fc602c23.png)
+
