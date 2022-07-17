@@ -215,6 +215,10 @@ b) Mostrar os documentos com o atributo "Median Age" maior que 70
 
 c) Mostrar os documentos 50 (Zip Code: 90056) à 60 (Zip Code: 90067) do índice de populacao
 
+
+![image](https://user-images.githubusercontent.com/78691172/179405053-db4c2c17-7f16-469d-ae2f-7c0f93e6ebfd.png)
+
+
 3. Importar através do Kibana o arquivo weekly_MSFT.csvPré-visualizar o documento (Guia Arquivos/dataset/weekly_MSFT.csv) com o índice bolsa
 
 4. Executar as consultas no índice bolsa
