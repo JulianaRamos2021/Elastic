@@ -231,3 +231,28 @@ a) Visualizar os documentos do dia 2019-01-01 à 2019-03-01. (hits = 9)
 b) Visualizar os documentos do dia 2019-04-01 até agora. (hits = 3)
 
 ![image](https://user-images.githubusercontent.com/78691172/179405665-f67235dc-e448-4986-b7ff-d6372700ce30.png)
+
+
+### Analyzer
+
+1. Criar os Analyzer simple, standard, brazilian e portuguese para a seguinte frase:
+O elasticsearch surgiu em 2010
+
+![image](https://user-images.githubusercontent.com/78691172/179410105-d01a04c6-00e2-4b49-a7cf-5b2a7e368fed.png)
+
+
+![image](https://user-images.githubusercontent.com/78691172/179409827-51e8d94a-d72f-443a-8f74-bf24a968e70f.png)
+
+
+![image](https://user-images.githubusercontent.com/78691172/179410449-47805a3c-e2b4-4a5c-a2cd-b130cbced865.png)
+
+
+2. Realizar os passos no índice produto
+
+a) Criar um analyzer brazilian para o atributo descricao
+
+b) Para o atributo descricao aplicar o analzyer brazilian para o tipo de campo text e criar o atributo descricao.original com o dado do tipo keyword
+
+c) Buscar a palavra “compativel” no campo descricao.original (hits = 0)
+
+d) Buscar a palavra “compativel” no campo descricao
