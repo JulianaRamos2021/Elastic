@@ -136,8 +136,18 @@ Reindexando...
 
 
 
-8. Fechar o índice produto
+8. Fechar o índice concessionaria
 
-9. Pesquisar todos os documentos no índice produto
+![image](https://user-images.githubusercontent.com/78691172/179400112-d4e3c676-66ff-42e7-a175-9091aa80ad4b.png)
+
+
+9. Pesquisar todos os documentos no índice concessionaria
+
+Visto que o índice foi fechado não é possível acessar, por isso retornou mensagem de erro.
+![image](https://user-images.githubusercontent.com/78691172/179400223-13e5762f-bb6e-408e-b787-5b462377bf5a.png)
+
+
 
 10. Abrir o índice produto
+![image](https://user-images.githubusercontent.com/78691172/179400622-c1b2af91-0299-43cf-80fc-ed03c5c6b18b.png)
+
