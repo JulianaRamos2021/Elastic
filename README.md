@@ -259,6 +259,9 @@ Realizar os exercícios no índice bolsa
 
 1. Calcular a média do campo volume
 
+![image](https://user-images.githubusercontent.com/78691172/179416551-a02bf33a-267d-40e6-8d49-b958a7ce22f8.png)
+
+
 2. Calcular a estatística do campo close
 
 3. Visualizar os documentos do dia 2019-04-01 até agora. (hits = 3)
